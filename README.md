@@ -1,3 +1,4 @@
+![Open in Codespaces](https://classroom.github.com/assets/open-in-codespaces-abfff4d4e15f9e1bd8274d9a39a0befe03a0632bb0f153d0ec72ff541cedbe34.svg)
 This repository has been designed for use in gem5 tutorials.
 It has been built with the assumption users will utilize [Codespaces](https://github.com/features/codespaces) to learn gem5.
 
